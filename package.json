@@ -1,0 +1,12 @@
+{
+  "name": "discord-voice-notify-bot",
+  "version": "1.0.0",
+  "description": "Бот отправляет сообщение, когда голосовой канал заполняется",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
